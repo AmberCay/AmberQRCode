@@ -1,0 +1,35 @@
+body {
+    background-color: #BDE0FE;
+}
+
+.container {
+ width: 100vw;
+ height: 100vh;
+ background-color: #BDE0FE;
+}
+
+.card {
+    position: relative;
+    left: 40%;
+    top: 10%;
+    width: 20%;
+    height: 430px;
+    background-color: #FFC8DD;
+    border-radius: 1.8rem;
+    padding: 1.5rem;
+    box-shadow: 5px 4px 15px 2px #81708c;
+
+}
+
+h2{
+    text-align: center;
+    color: #d6477c;
+    font-size: 26px;
+}
+
+p {
+    text-align: center;
+    color: #d07596;
+    font-size: 18px;
+    }
+
